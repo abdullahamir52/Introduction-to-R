@@ -10,7 +10,7 @@ planets_df <-data.frame(name,type,diameter,rotation,rings)
 planets_df
 str(planets_df)
 
-# This is a test. to see if I can pull the fil from the website
+# This is a test. to see if I can pull the file from the website
 
 # The following exercise shows us how we can select an element/column/row
 # Print out diameter of Mercury (row 1, column 3)
