@@ -7,6 +7,7 @@
 #A list in R allows you to gather a variety of objects under one name (that is, the name of the list) in an ordered way. These objects can be matrices, vectors, data frames, even other lists, etc. It is not even required that these objects are related to each other in any way.
 
 
+
 # creating a list()
 
 # Vector with numerics from 1 up to 10

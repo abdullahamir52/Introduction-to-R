@@ -11,6 +11,7 @@ planets_df
 str(planets_df)
 
 
+
 # The following exercise shows us how we can select an element/column/row
 # Print out diameter of Mercury (row 1, column 3)
 planets_df[1,3]
