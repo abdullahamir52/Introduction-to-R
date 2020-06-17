@@ -51,7 +51,8 @@ a[order(a)]
 
 
 # Use order() to create positions
-# this will create a vector named 'position' which will store the planets in order of their diameters
+# this will create a vector named 'position' which will store the planets 
+# in order of their diameters
 positions <-  order(planets_df$diameter)
 # Use positions to sort planets_df
 planets_df[positions,]
